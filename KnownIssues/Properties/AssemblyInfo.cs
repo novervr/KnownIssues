@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,13 +6,13 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KnownIssues")]
-[assembly: AssemblyDescription("Shows known issues in Gorilla Tag")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NoverVR")]
+[assembly: AssemblyCompany("HP Inc.")]
 [assembly: AssemblyProduct("KnownIssues")]
-[assembly: AssemblyCopyright("Copyright © NoverVR 2023")]
-[assembly: AssemblyTrademark("NoverVR")]
-[assembly: AssemblyCulture("NoverVR")]
+[assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("144962aa-55f8-4f80-bbfc-dcd1c43e08b4")]
+[assembly: Guid("4f502594-c959-40bb-8668-ccbbf4cee5a5")]
 
 // Version information for an assembly consists of the following four values:
 //
